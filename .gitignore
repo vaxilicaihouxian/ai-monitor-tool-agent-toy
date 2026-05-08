@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env*
+*.pem
+*.key
+*.log
+.claude/
+.DS_Store
+.omc.json
+package-lock.json
