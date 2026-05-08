@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="src/docs/banner.png" alt="Monitor CLI" width="600"/>
+</p>
+
 # OMC — Observability Monitor CLI
 
 A terminal observability tool that supports log search, distributed tracing (Trace) analysis, alarm event intelligent analysis, and Agent-driven deep investigation. Data sources include ClickHouse and Elasticsearch.
